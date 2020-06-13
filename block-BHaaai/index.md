@@ -1,0 +1,13 @@
+## BLOCK-writeCode
+
+### Create a page according to the design shown below.
+
+![alt text](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/introduction/assignment2.png)
+
+- Use external stylesheet to style the page.
+
+- For applying image use `<img src="" alt="">` tag. Keep source of the image inside `src=""` attribute. Put an alternative text of the image inside `alt=""` attribute. You can can also apply width and height to the image by applying `width="" and height=""` attribute inside image tag. for example
+
+  - `<img src="suraj.jpg" alt="suraj" width="200" height="200">`
+
+- For centering the element apply `text-align: center`, to the parent of the element in CSS.

@@ -1,0 +1,15 @@
+body {
+    background-color: green;
+}
+p {
+    color: darkblue;
+    font-size: 36px;
+}
+.heading {
+    color: hotpink;
+    font-size: 48px;
+}
+#unique {
+    color: khaki;
+    font-size: 30px;
+}

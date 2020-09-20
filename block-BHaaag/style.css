@@ -1,0 +1,15 @@
+body {
+    font-size: 20px;
+    color: white;
+    background-color: rgb(40, 45, 116);
+}
+.green {
+color: rgba(11, 206, 86, 0.466);
+font-size: 30px;
+}
+.connect{
+    color: red;
+    text-decoration-line: underline;
+    text-decoration-skip:spaces;
+    word-spacing: 30px;
+}
